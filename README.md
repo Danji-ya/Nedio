@@ -1,6 +1,6 @@
 <br />
 <div align="center" >
-  <img width="200px;" src="https://user-images.githubusercontent.com/53927959/154784523-4271ef55-d0f1-4b1c-9cd6-f38d9ca75904.png"/>
+  <img src="https://user-images.githubusercontent.com/53927959/162380319-f8c4fe54-c928-41f1-bcb9-8bd1a8d74a39.jpeg"/>
 </div>
 <br />
 
@@ -16,9 +16,9 @@
 
 <br/>
 
-##  데모 링크 🔗
+##  데모 영상 🔗
 
-[클릭](http://elice-kdt-sw-1st-team2.elicecoding.com/)하시면 서비스 페이지로 이동합니다.
+[클릭](https://www.youtube.com/watch?v=FV9S0EsoR7A)하시면 영상을 보실 수 있습니다.
 
 <br/>
 
